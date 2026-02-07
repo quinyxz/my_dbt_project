@@ -1,12 +1,2 @@
-dbt-task-3/
-├── dbt_project.yml
-├── models/
-│   ├── staging/
-│   │   ├── stg_orders.sql
-│   │   ├── stg_customers.sql
-│   │   └── stg_products.sql
-│   └── marts/
-│       ├── dim_customers.sql
-│       ├── dim_products.sql
-│       └── fact_sales.sql
-└── README.md
+git clone https://github.com/USERNAME/dbt-task-3.git
+cd dbt-task-3
